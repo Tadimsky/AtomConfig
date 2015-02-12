@@ -1,0 +1,14 @@
+'global':
+  'editor':
+    'fontSize': 12
+    'invisibles': {}
+  'core':
+    'themes': [
+      'seti-ui'
+      'seti-syntax'
+    ]
+  'exception-reporting':
+    'userId': 'fc44a076-cd0c-3249-85d5-d6ba17ca4569'
+  'welcome':
+    'showOnStartup': false
+  'linter': {}
